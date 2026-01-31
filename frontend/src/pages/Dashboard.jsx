@@ -11,7 +11,7 @@ import {
   Line,
   CartesianGrid,
 } from "recharts";
-import "./dashboard.css";
+import "./Dashboard.css";
 
 export default function Dashboard() {
   const [result, setResult] = useState(null);
