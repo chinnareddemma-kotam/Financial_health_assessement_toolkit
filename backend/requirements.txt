@@ -2,6 +2,8 @@ fastapi
 uvicorn
 sqlalchemy
 pandas
+numpy
 joblib
+scikit-learn
 python-multipart
 google-generativeai
