@@ -1,0 +1,16 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+*.db
+
+# ML models
+*.pkl
+
+# OS
+.DS_Store
