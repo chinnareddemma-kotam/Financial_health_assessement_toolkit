@@ -147,20 +147,37 @@ PostgreSQL compatible
 
 ## 📂 Project Structure
 financial-health/
+
+
 ├── backend/
+
 │   ├── main.py
+
 │   ├── models/
+
 │   ├── llm/
+
 │   ├── database/
+
 │   └── financial_health_model.pkl
+
 ├── frontend/
+
+
 │   ├── src/
+
 │   ├── components/
+
 │   └── pages/
+
 ├── sample_data/
+
 │   └── sme_financials.csv
+
 ├── README.md
+
 └── requirements.txt
+
 
 ## 📊 Input CSV, XLSX, PDF Format or any other text format
 
