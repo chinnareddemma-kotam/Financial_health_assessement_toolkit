@@ -94,12 +94,11 @@ Tabular SME records
 AI Insights panel
 
 ## 🏗️ System Architecture
-React Frontend
 
+React Frontend
      |
      
      | REST API
-     
      v
      
 FastAPI Backend
