@@ -96,9 +96,11 @@ AI Insights panel
 ## 🏗️ System Architecture
 
 React Frontend
+
      |
      
      | REST API
+
      v
      
 FastAPI Backend
@@ -115,7 +117,7 @@ FastAPI Backend
 
 
 ## 🛠️ Tech Stack
-Frontend
+# Frontend
 
 React
 
@@ -123,7 +125,7 @@ Chart.js / Recharts
 
 Axios
 
-Backend
+# Backend
 
 FastAPI
 
@@ -137,7 +139,7 @@ AI (Optional)
 
 Google Gemini API
 
-Database
+# Database
 
 SQLite (default)
 
