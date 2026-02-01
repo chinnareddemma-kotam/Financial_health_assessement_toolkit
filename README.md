@@ -95,15 +95,25 @@ AI Insights panel
 
 ## 🏗️ System Architecture
 React Frontend
+
      |
+     
      | REST API
+     
      v
+     
 FastAPI Backend
+
      |
+
      ├── Rule-Based Engine
+     
      ├── ML Model (Health Confidence)
+     
      ├── Optional Gemini LLM
+     
      └── Database (SQLite / PostgreSQL-ready)
+
 
 ## 🛠️ Tech Stack
 Frontend
