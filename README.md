@@ -41,7 +41,7 @@ Service Name: financial-health-assessment-toolkit
 ## 🎨 Frontend (React Dashboard)
 
 # Repository
-https://github.com/chinna-reddemma/sme-financial-health-frontend
+https://github.com/chinnareddemma-kotam/Financial_health_assessement_toolkit
 
 # Live Application
 https://financial-health-toolkit-app.vercel.app/
